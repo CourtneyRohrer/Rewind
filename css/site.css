@@ -26,6 +26,14 @@ main>.container {
     padding: 60px 15px 0;
 }
 
+.font-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 .sticky-nav {
     position: fixed;
     left: 0;
